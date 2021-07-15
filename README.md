@@ -1,3 +1,22 @@
+**THE FOLLOWING INFORMATION LISTED BELOW IS FOR ETHICAL PURPOSES ONLY.**
+
+**WE DO NOT CONDONE OR CONDUCT IN ANY ILLEGAL OR UNETHICAL ACTIVITIES IN THIS SERVER.**
+
+**BE MINDFUL AND READ THE SERVER RULES AND FAQ.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Looking to get started in Bug Bounty? Here you will find many resources on how to get started. 
+
+You will find that the categories on how to get started are divided into various areas to help you get a better understanding on how to get started on bug bounty!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**NOTES:**
+
+• Before asking us questions on _how to get started_, please read through these resources that were compiled for you. 
+
+• **This information can be changed or modified at anytime.**
 
 ## Mandatory Resources:
 
@@ -45,7 +64,8 @@ _You will find lots of useful information on getting started here._
 
 **Securibee:** 
 
-• [https://securib.ee/newsletter/](https://securib.ee/newsletter/ "https://securib.ee/newsletter/") _-Information about bug bounty and what's it like._
+• [https://securib.ee/newsletter/](https://securib.ee/newsletter/ "https://securib.ee/newsletter/") 
+_Information about bug bounty and what's it like._
 
 ## Useful Information
 
@@ -61,7 +81,7 @@ _Information on how to take over subdomains you enumerate or come across one._
 
 **Stök:** 
 
-• [https://www.youtube.com/c/STOKfredrik](https://www.youtube.com/c/STOKfredrik "https://www.youtube.com/c/STOKfredrik") _(Informative current affairs about bug bounty)._ 
+• [https://www.youtube.com/c/STOKfredrik](https://www.youtube.com/c/STOKfredrik "https://www.youtube.com/c/STOKfredrik") _Informative current affairs about bug bounty._ 
 
 **Android Hacking:** 
 
@@ -97,7 +117,7 @@ _Having a checklist can help you be organized when doing or checking for bugs._
 
 ## Blog Posts
 
-The following blog post were made by the listed individuals to **<u>help</u>** _you_ get a better understanding on _how to_. 
+The following blog post were made by the listed individuals to **help** _you_ get a better understanding on _how to_. 
 
 **Dreyand:** 
 • [https://dreyand.github.io/](https://dreyand.github.io/ "https://dreyand.github.io/") 
