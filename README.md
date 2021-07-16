@@ -141,7 +141,7 @@ The following blog post were made by the listed individuals to **help** _you_ ge
 • [https://mrsinister1501.medium.com/](https://mrsinister1501.medium.com/ "https://mrsinister1501.medium.com/") 
 
 **Sonic:** 
-• [https://bjlr449.medium.com/](https://bjlr449.medium.com/ "https://bjlr449.medium.com/")
+• [https://noob3xploiter.medium.com/](https://noob3xploiter.medium.com/ "https://noob3xploiter.medium.com/")
 
 **Iustin:** 
 • [https://youst.in/](https://youst.in/ "https://youst.in/") 
